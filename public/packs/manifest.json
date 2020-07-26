@@ -1,0 +1,65 @@
+{
+  "App.js": "/packs/js/App-af2c131e37a34fc2dfa6.js",
+  "App.js.map": "/packs/js/App-af2c131e37a34fc2dfa6.js.map",
+  "entrypoints": {
+    "App": {
+      "js": [
+        "/packs/js/App-af2c131e37a34fc2dfa6.js"
+      ],
+      "js.map": [
+        "/packs/js/App-af2c131e37a34fc2dfa6.js.map"
+      ]
+    },
+    "hello_react": {
+      "js": [
+        "/packs/js/hello_react-4e2e460389d2b546cbf6.js"
+      ],
+      "js.map": [
+        "/packs/js/hello_react-4e2e460389d2b546cbf6.js.map"
+      ]
+    },
+    "index": {
+      "js": [
+        "/packs/js/index-cf691a870a90f3f95dde.js"
+      ],
+      "js.map": [
+        "/packs/js/index-cf691a870a90f3f95dde.js.map"
+      ]
+    },
+    "logo": {
+      "js": [
+        "/packs/js/logo-88f0d626d50642974292.js"
+      ],
+      "js.map": [
+        "/packs/js/logo-88f0d626d50642974292.js.map"
+      ]
+    },
+    "serviceWorker": {
+      "js": [
+        "/packs/js/serviceWorker-d5dbb55b2c493e2c689d.js"
+      ],
+      "js.map": [
+        "/packs/js/serviceWorker-d5dbb55b2c493e2c689d.js.map"
+      ]
+    },
+    "setupTests": {
+      "js": [
+        "/packs/js/setupTests-3184dfba0373e45f21ab.js"
+      ],
+      "js.map": [
+        "/packs/js/setupTests-3184dfba0373e45f21ab.js.map"
+      ]
+    }
+  },
+  "hello_react.js": "/packs/js/hello_react-4e2e460389d2b546cbf6.js",
+  "hello_react.js.map": "/packs/js/hello_react-4e2e460389d2b546cbf6.js.map",
+  "index.js": "/packs/js/index-cf691a870a90f3f95dde.js",
+  "index.js.map": "/packs/js/index-cf691a870a90f3f95dde.js.map",
+  "logo.js": "/packs/js/logo-88f0d626d50642974292.js",
+  "logo.js.map": "/packs/js/logo-88f0d626d50642974292.js.map",
+  "media/packs/logo.svg": "/packs/media/packs/logo-103b5fa1.svg",
+  "serviceWorker.js": "/packs/js/serviceWorker-d5dbb55b2c493e2c689d.js",
+  "serviceWorker.js.map": "/packs/js/serviceWorker-d5dbb55b2c493e2c689d.js.map",
+  "setupTests.js": "/packs/js/setupTests-3184dfba0373e45f21ab.js",
+  "setupTests.js.map": "/packs/js/setupTests-3184dfba0373e45f21ab.js.map"
+}
